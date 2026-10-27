@@ -35,7 +35,3 @@ cp -R b-slides ~/.agents/skills/
 
 Para instalá-la somente em um projeto, copie-a para `.agents/skills/` na raiz desse projeto. Inicie uma nova sessão e peça ao Codex para usar `b-slides` ou invoque-a com `$b-slides`. Consulte a [documentação de skills da OpenAI](https://developers.openai.com/codex/skills/).
 
-## Autor
-[Thiago Rodrigues](https://thiagorodrigues1.com.br/)
-
-
